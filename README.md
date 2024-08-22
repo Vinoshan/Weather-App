@@ -25,7 +25,7 @@ A simple weather checking app that allows users to input a city name and get cur
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd weather-checker
+   cd weather-app
    ```
 
 3. **Open the `index.html` file**
